@@ -11,7 +11,8 @@ It should be pretty easy to use.
 
 ## Contributing
 
-Add requests are welcome with open arms. For major changes or adds,
+Pull requests are welcome with open arms. For major changes or adds,
 please open an issue to discuss first.
-
 Please make sure that I check if it is appropriate for the pack.
+
+
