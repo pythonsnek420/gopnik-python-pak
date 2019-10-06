@@ -1,6 +1,6 @@
 # The Gopnik Python Pack
 
-The Gopnik Python Pack is a pack to answer all your gopnik needs
+The Gopnik Python Pack is a pack to answer all your gopnik needs.
 It even has a Vadim alert!
 
 ## How-To
