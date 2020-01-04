@@ -10,8 +10,7 @@ b. Show features and bug fixes
 3. What do i do when I see a Vadim?
 4. Is DOOM as good as CS 1.6?
 5. Is DOOM good on it's own?
-6. Can I add you on AIM/YMessenger?
-7. Where's the name interpreter?
+6. Where's the name interpreter?
 """)
 
 question = input()
@@ -24,7 +23,7 @@ else:
 
     if question == ('3'):
         print("""Just run vadimalert.py 
-(it's in the samefolder as this bot)
+(it's in the same folder as this bot)
 and it'll do the work for you.""")
         
     if question == ('4'):
@@ -32,18 +31,16 @@ and it'll do the work for you.""")
         
     if question == ('5'):
         print("Yeah")
-
+           
     if question == ("6"):
-        print("AIM is 'asscheeksclapped', and YMessenger is also 'asscheeksclapped'")
-        
-    if question == ("7"):
         print("Sorry man. not making one")
         
     
     if question == ("b"):
         print("""new features and bug fixes for v.2.0
-1. Added 5 new questions/answers
-2. Added bug fix/feature option""")
+1. Added 4 new questions/answers
+2. Added bug fix/feature option
+3. fixed spelling mistakes""")
 input("Press ENTER key to exit")
 
 
